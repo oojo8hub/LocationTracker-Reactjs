@@ -1,4 +1,4 @@
-#Location finder
+# Location finder
 
 This is a small project that showcases my react proficiency.
 
